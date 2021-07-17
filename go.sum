@@ -1,0 +1,4 @@
+github.com/donovanhide/eventsource v0.0.0-20171031113327-3ed64d21fb0b h1:eR1P/A4QMYF2/LpHRhYAts9wyYEtF7qNk/tVNiYCWc8=
+github.com/donovanhide/eventsource v0.0.0-20171031113327-3ed64d21fb0b/go.mod h1:56wL82FO0bfMU5RvfXoIwSOP2ggqqxT+tAfNEIyxuHw=
+github.com/pioneer-io/go_sdk v0.0.0-20210717173747-f39b5e3935f0 h1:kwIE6ywSwyPShF9/gEZmmZWQ0M+JoLOoY4DON2/9UR0=
+github.com/pioneer-io/go_sdk v0.0.0-20210717173747-f39b5e3935f0/go.mod h1:C2O4HU6WMzgzPZFtaaOgt9ZyfyDbgZ3pLkXc4Bwqu24=
